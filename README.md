@@ -1,5 +1,5 @@
 
-# Digit_Recognition_Web_App
+#Handwritten Digit Recognition App
  link : https://maneprajakta.github.io/Digit_Recognition_Web_App/
 <br>
 <h3>Structure of App</h3>
